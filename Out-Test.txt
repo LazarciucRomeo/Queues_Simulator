@@ -1,0 +1,155 @@
+Time 0
+Waiting clients: (4,6,2) (5,10,3) (10,14,2) (6,17,4) (7,21,2) (1,22,2) (2,24,4) (9,24,4) (3,27,3) (8,27,3) 
+Queue 2:closed
+Queue 3:closed
+Queue 4:closed
+Time 1
+Waiting clients: (4,6,2) (5,10,3) (10,14,2) (6,17,4) (7,21,2) (1,22,2) (2,24,4) (9,24,4) (3,27,3) (8,27,3) 
+Queue 2:closed
+Queue 3:closed
+Queue 4:closed
+Time 2
+Waiting clients: (4,6,2) (5,10,3) (10,14,2) (6,17,4) (7,21,2) (1,22,2) (2,24,4) (9,24,4) (3,27,3) (8,27,3) 
+Queue 2:closed
+Queue 3:closed
+Queue 4:closed
+Time 3
+Waiting clients: (4,6,2) (5,10,3) (10,14,2) (6,17,4) (7,21,2) (1,22,2) (2,24,4) (9,24,4) (3,27,3) (8,27,3) 
+Queue 2:closed
+Queue 3:closed
+Queue 4:closed
+Time 4
+Waiting clients: (4,6,2) (5,10,3) (10,14,2) (6,17,4) (7,21,2) (1,22,2) (2,24,4) (9,24,4) (3,27,3) (8,27,3) 
+Queue 2:closed
+Queue 3:closed
+Queue 4:closed
+Time 5
+Waiting clients: (4,6,2) (5,10,3) (10,14,2) (6,17,4) (7,21,2) (1,22,2) (2,24,4) (9,24,4) (3,27,3) (8,27,3) 
+Queue 2:closed
+Queue 3:closed
+Queue 4:closed
+Time 6
+Waiting clients: (5,10,3) (10,14,2) (6,17,4) (7,21,2) (1,22,2) (2,24,4) (9,24,4) (3,27,3) (8,27,3) 
+Queue 2:closed
+Queue 3:closed
+Queue 4:closed
+Time 7
+Waiting clients: (5,10,3) (10,14,2) (6,17,4) (7,21,2) (1,22,2) (2,24,4) (9,24,4) (3,27,3) (8,27,3) 
+Queue 2:closed
+Queue 3:closed
+Queue 4:closed
+Time 8
+Waiting clients: (5,10,3) (10,14,2) (6,17,4) (7,21,2) (1,22,2) (2,24,4) (9,24,4) (3,27,3) (8,27,3) 
+Queue 2:closed
+Queue 3:closed
+Queue 4:closed
+Time 9
+Waiting clients: (5,10,3) (10,14,2) (6,17,4) (7,21,2) (1,22,2) (2,24,4) (9,24,4) (3,27,3) (8,27,3) 
+Queue 2:closed
+Queue 3:closed
+Queue 4:closed
+Time 10
+Waiting clients: (10,14,2) (6,17,4) (7,21,2) (1,22,2) (2,24,4) (9,24,4) (3,27,3) (8,27,3) 
+Queue 2:closed
+Queue 3:closed
+Queue 4:closed
+Time 11
+Waiting clients: (10,14,2) (6,17,4) (7,21,2) (1,22,2) (2,24,4) (9,24,4) (3,27,3) (8,27,3) 
+Queue 2:closed
+Queue 3:closed
+Queue 4:closed
+Time 12
+Waiting clients: (10,14,2) (6,17,4) (7,21,2) (1,22,2) (2,24,4) (9,24,4) (3,27,3) (8,27,3) 
+Queue 2:closed
+Queue 3:closed
+Queue 4:closed
+Time 13
+Waiting clients: (10,14,2) (6,17,4) (7,21,2) (1,22,2) (2,24,4) (9,24,4) (3,27,3) (8,27,3) 
+Queue 2:closed
+Queue 3:closed
+Queue 4:closed
+Time 14
+Waiting clients: (6,17,4) (7,21,2) (1,22,2) (2,24,4) (9,24,4) (3,27,3) (8,27,3) 
+Queue 2:closed
+Queue 3:closed
+Queue 4:closed
+Time 15
+Waiting clients: (6,17,4) (7,21,2) (1,22,2) (2,24,4) (9,24,4) (3,27,3) (8,27,3) 
+Queue 2:closed
+Queue 3:closed
+Queue 4:closed
+Time 16
+Waiting clients: (6,17,4) (7,21,2) (1,22,2) (2,24,4) (9,24,4) (3,27,3) (8,27,3) 
+Queue 2:closed
+Queue 3:closed
+Queue 4:closed
+Time 17
+Waiting clients: (7,21,2) (1,22,2) (2,24,4) (9,24,4) (3,27,3) (8,27,3) 
+Queue 2:closed
+Queue 3:closed
+Queue 4:closed
+Time 18
+Waiting clients: (7,21,2) (1,22,2) (2,24,4) (9,24,4) (3,27,3) (8,27,3) 
+Queue 2:closed
+Queue 3:closed
+Queue 4:closed
+Time 19
+Waiting clients: (7,21,2) (1,22,2) (2,24,4) (9,24,4) (3,27,3) (8,27,3) 
+Queue 2:closed
+Queue 3:closed
+Queue 4:closed
+Time 20
+Waiting clients: (7,21,2) (1,22,2) (2,24,4) (9,24,4) (3,27,3) (8,27,3) 
+Queue 2:closed
+Queue 3:closed
+Queue 4:closed
+Time 21
+Waiting clients: (1,22,2) (2,24,4) (9,24,4) (3,27,3) (8,27,3) 
+Queue 2:closed
+Queue 3:closed
+Queue 4:closed
+Time 22
+Waiting clients: (2,24,4) (9,24,4) (3,27,3) (8,27,3) 
+Queue 2:
+Queue 3:closed
+Queue 4:closed
+Time 23
+Waiting clients: (2,24,4) (9,24,4) (3,27,3) (8,27,3) 
+Queue 2:closed
+Queue 3:closed
+Queue 4:closed
+Time 24
+Waiting clients: (3,27,3) (8,27,3) 
+Queue 2:(9,24,4) 
+Queue 3:closed
+Queue 4:closed
+Time 25
+Waiting clients: (3,27,3) (8,27,3) 
+Queue 2:(9,24,3) 
+Queue 3:closed
+Queue 4:closed
+Time 26
+Waiting clients: (3,27,3) (8,27,3) 
+Queue 2:(9,24,2) 
+Queue 3:closed
+Queue 4:closed
+Time 27
+Waiting clients: 
+Queue 2:(9,24,1) 
+Queue 3:(3,27,3) 
+Queue 4:(8,27,3) 
+Time 28
+Waiting clients: 
+Queue 2:closed
+Queue 3:(3,27,2) 
+Queue 4:(8,27,2) 
+Time 29
+Waiting clients: 
+Queue 2:closed
+Queue 3:(3,27,1) 
+Queue 4:(8,27,1) 
+Time 30
+Waiting clients: 
+Queue 2:closed
+Queue 3:closed
+Queue 4:closed
